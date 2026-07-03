@@ -41,17 +41,6 @@ Instead of searching manually, brokers simply describe the client's request in n
 
 ---
 
-# Core Value Proposition
-
-B.A helps brokers:
-- Save time
-- Close deals faster
-- Find better property matches
-- Organize their inventory
-- Increase productivity
-
----
-
 # MVP Objective
 
 The first version of B.A will focus on one thing only:
